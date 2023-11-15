@@ -27,7 +27,7 @@ I'm on a journey to turn coffee ☕ into code. My interests span from coding ele
 
 ## 🌱 Current Focus
 
-Actively seeking an internship opportunity to apply my skills, learn from experienced professionals, and contribute to innovative projects.
+Actively seeking for an opportunity to apply my skills, learn from experienced professionals, and contribute to innovative projects.
 
 
 
