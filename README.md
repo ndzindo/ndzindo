@@ -19,9 +19,9 @@ I'm on a journey to turn coffee ☕ into code.
 <img src="https://img.shields.io/badge/-C-deepskyblue?logo=c&style=for-the-badge" alt="C Badge">
 <img src="https://img.shields.io/badge/-C++-deepskyblue?logo=c%2B%2B&style=for-the-badge" alt="C++ Badge">
 <img src="https://img.shields.io/badge/-%20C%23-purple?logo=.net&style=for-the-badge" alt="C# .NET Badge">
-<img src="https://img.shields.io/badge/-Java-red?logo=java&style=for-the-badge" alt="Java Badge">
+<img src="https://img.shields.io/badge/-Java-orangered?logo=java&style=for-the-badge" alt="Java Badge">
 <img src="https://img.shields.io/badge/-Kotlin-blueviolet?logo=kotlin&style=for-the-badge" alt="Kotlin Badge">
-<img src="https://img.shields.io/badge/-Blender-orange?logo=blender&style=for-the-badge" alt="Blender Badge">
+<img src="https://img.shields.io/badge/-Blender-darkorange?logo=blender&style=for-the-badge" alt="Blender Badge">
 <img src="https://img.shields.io/badge/-Unity-grey?logo=unity&style=for-the-badge" alt="Unity Badge">
 
 </p>
