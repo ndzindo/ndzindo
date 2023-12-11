@@ -14,7 +14,7 @@ I'm on a journey to turn coffee ☕ into code.
   <img src="https://img.shields.io/badge/HTML-orange?logo=html5&style=for-the-badge" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-blue?logo=css3&style=for-the-badge" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-blue?logo=react&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/-React-lightblue?logo=react&style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&style=for-the-badge" alt="Node.js">
   <img src="https://img.shields.io/badge/C-blue?logo=c&style=for-the-badge" alt="C">
   <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=for-the-badge" alt="C++">
