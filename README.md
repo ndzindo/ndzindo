@@ -32,6 +32,6 @@ Actively seeking for an opportunity to apply my skills, learn from experienced p
 
 
 
-## 🚀 Happy Coding!
+## 🎮 Happy Coding!
 
 Let's build the future together. Happy coding! 🚀
