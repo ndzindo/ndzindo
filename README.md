@@ -2,7 +2,7 @@
 
 
 
-I'm ndzindo 👋, a software engineer.
+I'm ndzindo 👋, a software developer.
 
 ## 🚀 About Me
 
